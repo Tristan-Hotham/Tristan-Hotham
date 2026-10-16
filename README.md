@@ -27,7 +27,7 @@ All open access, with DOIs, PDFs and aggregate data on Zenodo. Preprints are not
 - [Not a Forecast: The Radical Right on Facebook in Sweden, Norway and Denmark, 2014 to 2020](https://tristanhotham.com/research/not-a-forecast/)
 - [PhD thesis: How do political parties use Facebook and what does it offer to their campaigns](https://tristanhotham.com/research/phd-thesis-how-do-political-parties-use-facebook/) (University of Bath, 2021)
 
-[See all 22 papers →](https://tristanhotham.com/research/)
+[See all 64 papers →](https://tristanhotham.com/research/)
 
 #### Quick answers from the research
 
