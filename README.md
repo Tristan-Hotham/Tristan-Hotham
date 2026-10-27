@@ -2,7 +2,7 @@
 
 **Researcher of campaigns and platforms. Maker of other things.**
 
-I take public data, the messier the better, and turn it into papers, interactive maps and things you can play with. Most of my research is about how political parties, leaders and campaigns use Facebook and other platforms. Lately I have pointed the same methods at hillforts, Roman roads, pub signs and church saints.
+I take public data, the messier the better, and turn it into papers, interactive maps and things you can play with. Most of my research is about how political parties, leaders and campaigns use Facebook and other platforms. Lately I have pointed the same methods at the past: hillforts, Roman roads, pub signs, saints, shipwrecks, witch trials and the Domesday Book.
 
 **Hub:** [tristan-hotham.github.io](https://tristan-hotham.github.io/) · **Website:** [tristanhotham.com](https://tristanhotham.com/) · **Blog:** [blog.tristanhotham.com](https://blog.tristanhotham.com/) · **ORCID:** [0000-0003-4931-9349](https://orcid.org/0000-0003-4931-9349) · **Google Scholar:** [profile](https://scholar.google.com/citations?user=RN6xlggAAAAJ) · **SSRN:** [preprints](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=13569668)
 
@@ -30,12 +30,63 @@ Selected papers (open access, with DOIs, PDFs and aggregate data):
 
 ---
 
-#### 🗺️ Data studies: history and landscape
+#### 🗺️ Data studies: history, places and landscape
 
-Questions about the past, answered with open data. Each one has an interactive page, a blog write-up, and data and code on GitHub and Zenodo.
+40 questions about the past, answered with open data. Each one has an interactive page, a [blog](https://blog.tristanhotham.com/) write-up, and data and code here on GitHub, most with an archived paper on Zenodo. The [hub](https://tristan-hotham.github.io/) shows them all as cards.
 
-| Study | Question |
-|---|---|
+**Names on the map**
+
+- [What Pub Names Remember](https://tristan-hotham.github.io/pub-sign-history/): Which histories do 37,559 pub signs carry, and which names give a county away?
+- [The Geography of Saints](https://tristan-hotham.github.io/saints-geography/): Where does each saint's following lie across 17,116 British church dedications?
+- [Whose Church Is It?](https://tristan-hotham.github.io/saints-and-wells/): 279,212 churches in twelve Western European countries, sorted by patron saint.
+- [From Saint to Wish](https://tristan-hotham.github.io/holy-wells/): 3,440 holy and wishing wells in Britain and Ireland: their saints, languages, cures and offerings.
+- [Is There a Barrow in Barrow?](https://tristan-hotham.github.io/barrow-in-barrow/): Do places named from Old English beorg sit by burial mounds?
+- [Dale, Down, Fell and Beck](https://tristan-hotham.github.io/dale-down-fell-beck/): Where do Britain's words for hills, valleys and streams change?
+- [Ford or Bridge?](https://tristan-hotham.github.io/fords-and-bridges/): Every ford and bridge place name in Britain against the census and income: Oxford waded, Cambridge built.
+- [Bloody Place Names](https://tristan-hotham.github.io/bloody-place-names/): 756 grim names on the OS map against 507 battles: only the Battles mark battlefields.
+- [Gallows Hill](https://tristan-hotham.github.io/gallows-hill/): Where Britain put its gallows: 340 names measured for height, roads, towns and boundaries.
+- [Silver and Names](https://tristan-hotham.github.io/viking-silver/): Viking hoards against Norse place names: they mostly agree, except in Lincolnshire.
+- [Here Be Dragons](https://tristan-hotham.github.io/here-be-dragons/): Britain's dragon legends and place names: they cling to the parish church, not the barrow or the river.
+- [The High Ones](https://tristan-hotham.github.io/the-high-ones/): What links the Brigantes of Yorkshire and Brigantium in Galicia?
+
+**Prehistory and monuments**
+
+- [Same Shape, Different Millennia](https://tristan-hotham.github.io/stone-circles/): Every stone circle in Europe's open data, sorted into traditions and dated.
+- [The Megalith Highway](https://tristan-hotham.github.io/megalith-highway/): 13,280 megalithic monuments: did the idea of the great stone tomb travel by sea?
+- [Is the Barrow a European Thing?](https://tristan-hotham.github.io/barrows-of-europe/): 99,049 burial mounds from Ireland to the steppe, with radiocarbon dates.
+- [Rings in the Rock](https://tristan-hotham.github.io/rings-in-the-rock/): Where are Atlantic Europe's cup-and-ring carvings, and who carved them?
+- [Within Sight](https://tristan-hotham.github.io/within-sight/): Could Britain and Ireland's hillforts see each other?
+- [The Famous Few](https://tristan-hotham.github.io/famous-few/): Why do eleven hillforts get half of all Wikipedia reading?
+- [The Triskell Boom](https://tristan-hotham.github.io/triskell-boom/): How did an ancient triple spiral become a modern Celtic badge?
+- [Still Standing](https://tristan-hotham.github.io/oldest-buildings/): 6,837 buildings from before AD 1100 on one map, and what kept them standing.
+- [Did Detectorists Start a Boom?](https://tristan-hotham.github.io/detectorists-effect/): Did a sitcom send Britain out metal detecting?
+
+**Romans to Tudors**
+
+- [How Roman Is Your Road?](https://tristan-hotham.github.io/how-roman-is-your-road/): How much of each county's A-roads still follows a Roman line?
+- [The Roman Commuter Belt?](https://tristan-hotham.github.io/roman-villas/): 617 Roman villas against today's household income: a premium that is almost all geography.
+- [Minted](https://tristan-hotham.github.io/saxon-mints/): England's Anglo-Saxon and Norman mint towns from 70,995 coins: were they still the big towns in 1377, 1801 and today?
+- [Is Domesday Destiny?](https://tristan-hotham.github.io/domesday-destiny/): Does a place's size in 1086 still predict its size today?
+- [Laid Waste: the Harrying of the North](https://tristan-hotham.github.io/harrying-of-the-north/): Where Domesday's 'waste' fell after 1069 to 1070, and how faint its scar is today.
+- [The Conquest in Castles](https://tristan-hotham.github.io/norman-castles/): How fast Norman castles spread across Britain after Hastings, decade by decade.
+- [The Villages That Vanished](https://tristan-hotham.github.io/lost-villages/): England's 2,222 deserted medieval villages against Domesday Book.
+- [Where Was the Battle?](https://tristan-hotham.github.io/where-was-the-battle/): 88 proposed sites for 18 lost battles of early Britain, scored against the texts.
+- [What Became of the Abbeys?](https://tristan-hotham.github.io/after-the-abbeys/): 808 houses Henry VIII closed, traced to what stands on their sites today.
+
+**Early modern and modern**
+
+- [Fire on the Hills](https://tristan-hotham.github.io/armada-beacons/): Could the Armada beacons carry the news? 193 beacon hills and the lines of sight between them.
+- [Cold Years, Witch Years?](https://tristan-hotham.github.io/witch-hunts/): Scotland's 3,840 accused witches: did the panics follow cold years? They did not.
+- [Canal Mania](https://tristan-hotham.github.io/canal-mania/): Did England's canal towns boom, and do they still lead? Bigger today, not richer.
+- [Cholera 1849](https://tristan-hotham.github.io/cholera-1849/): Farr's elevation law, Snow's pump and whether London's worst-hit districts are still the poorest.
+- [Rotten Boroughs: Where Are They Now?](https://tristan-hotham.github.io/rotten-boroughs/): The 56 boroughs the 1832 Reform Act abolished, followed to today: 25 are villages, a hamlet or an empty hill.
+- [Did Lighthouses Work?](https://tristan-hotham.github.io/did-lighthouses-work/): Did shipwrecks fall after the lights were lit?
+- [Whose Ships Sank Where?](https://tristan-hotham.github.io/wrecks-of-europe/): 106,550 shipwrecks in Europe's seas, 1744 to 1945, by the flag they sailed under.
+- [Thankful Villages: Luck or Size?](https://tristan-hotham.github.io/thankful-villages/): Why did every man come home to some First World War parishes?
+- [Far From Home](https://tristan-hotham.github.io/victoria-cross/): Where each Victoria Cross was won, where its recipient was born, and the distance between.
+- [There and Back Again](https://tristan-hotham.github.io/there-and-back-again/): 43 great journeys from 600 BC to 1947, mapped and graded by the evidence that they happened.
+
+---|---|
 | [What Pub Names Remember](https://tristan-hotham.github.io/pub-sign-history/) | Which histories do 37,559 pub signs carry, and which names give a county away? |
 | [The Geography of Saints](https://tristan-hotham.github.io/saints-geography/) | Where does each saint's following lie, across 17,116 church dedications? |
 | [Is There a Barrow in Barrow?](https://tristan-hotham.github.io/barrow-in-barrow/) | Do places named from Old English *beorg* sit by burial mounds? |
