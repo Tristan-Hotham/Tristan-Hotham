@@ -1,38 +1,16 @@
 ### Hi, I'm Dr Tristan Hotham
 
-**Researcher of campaigns and platforms. Maker of other things.**
+**Data-led researcher of politics, the past, platforms and places. Maker of maps, games and other things.**
 
-I take public data, the messier the better, and turn it into papers, interactive maps and things you can play with. Most of my research is about how political parties, leaders and campaigns use Facebook and other platforms. Lately I have pointed the same methods at the past: hillforts, Roman roads, pub signs, saints, shipwrecks, witch trials and the Domesday Book.
+I take public data, the messier the better, and turn it into interactive maps, papers and things you can play with: the past, places and weather in Britain and around the world, and how political parties, leaders and campaigns use Facebook and other platforms.
 
 **Hub:** [tristan-hotham.github.io](https://tristan-hotham.github.io/) · **Website:** [tristanhotham.com](https://tristanhotham.com/) · **Blog:** [blog.tristanhotham.com](https://blog.tristanhotham.com/) · **ORCID:** [0000-0003-4931-9349](https://orcid.org/0000-0003-4931-9349) · **Google Scholar:** [profile](https://scholar.google.com/citations?user=RN6xlggAAAAJ) · **SSRN:** [preprints](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=13569668)
 
 ---
 
-#### 📊 Research: platforms and politics
+#### 🗺️ Data stories: the past, places and weather
 
-My PhD (University of Bath, 2021) looked at how British political parties use Facebook in election campaigns. I work with digital trace data (CrowdTangle, Netvizz, the Meta Ad Library), hand coding and text-as-data methods. Where the terms of collection allow, I share aggregate data with each paper.
-
-- Party and leader pages, and who carries a party's online audience
-- Satellite campaigns such as Momentum, and Janus-faced campaigning
-- Targeted political advertising and A/B testing
-- Comment sections, incivility and toxicity
-- Populism, the radical right and engagement across Europe
-
-Selected papers (open access, with DOIs, PDFs and aggregate data):
-
-- [Do Populists Win on Facebook? The Engagement Premium of Populist Parties in Europe, 2010 to 2020](https://tristanhotham.com/research/do-populists-win-on-facebook/)
-- [What Does a Satellite Campaign Do? Momentum, the Labour Party and Jeremy Corbyn on Facebook in the 2017 General Election](https://tristanhotham.com/research/what-does-a-satellite-campaign-do/)
-- [Same Message, Thousands of Times: Targeted Facebook Advertising by British Parties at the 2017 and 2019 General Elections](https://tristanhotham.com/research/same-message-thousands-of-times/)
-- [Who Carries the Party on Facebook? Leaders, Party Pages and the Polls in Britain, 2010 to 2020](https://tristanhotham.com/research/who-carries-the-party-on-facebook/)
-- [PhD thesis: How do political parties use Facebook and what does it offer to their campaigns](https://tristanhotham.com/research/phd-thesis-how-do-political-parties-use-facebook/)
-
-[All 64 papers →](https://tristanhotham.com/research/) · [Open research index →](https://github.com/Tristan-Hotham/facebook-politics-research)
-
----
-
-#### 🗺️ Data studies: history, places and landscape
-
-70 questions about the past, the landscape and the weather, answered with open data. Each one has an interactive page, a [blog](https://blog.tristanhotham.com/) write-up, and data and code here on GitHub, most with an archived paper on Zenodo. The [hub](https://tristan-hotham.github.io/) shows them all as cards.
+Questions about the past, the landscape and the weather, in Britain and around the world, answered with open data. Each one has an interactive page, a [blog](https://blog.tristanhotham.com/) write-up, and data and code here on GitHub, most with an archived paper on Zenodo. The [hub](https://tristan-hotham.github.io/) shows them all as cards.
 
 **Names on the map**
 
@@ -118,6 +96,28 @@ Selected papers (open access, with DOIs, PDFs and aggregate data):
 - [When Did Your Town Last See a Total Eclipse?](https://tristan-hotham.github.io/eclipse-towns/): Every path of totality across Britain and Ireland from AD 1000 to 2200, tested for 17,103 places: for most towns the last was in 1715 or 1724.
 - [Britain's Earthquakes Since 1382](https://tristan-hotham.github.io/british-earthquakes/): All 7,032 quakes in the BGS catalogues: a magnitude 4 about every 3 years, and the busiest modern zones were coalfields.
 - [Where Are Britain's Oldest Trees?](https://tristan-hotham.github.io/ancient-trees/): 1,626 notable trees on OpenStreetMap: oaks dominate, yews hug the old churches, and giants stand in the royal forests.
+
+---
+
+#### 📊 Research: politics and platforms
+
+My PhD (University of Bath, 2021) looked at how British political parties use Facebook in election campaigns. I work with digital trace data (CrowdTangle, Netvizz, the Meta Ad Library), hand coding and text-as-data methods. Where the terms of collection allow, I share aggregate data with each paper.
+
+- Party and leader pages, and who carries a party's online audience
+- Satellite campaigns such as Momentum, and Janus-faced campaigning
+- Targeted political advertising and A/B testing
+- Comment sections, incivility and toxicity
+- Populism, the radical right and engagement across Europe
+
+Selected papers (open access, with DOIs, PDFs and aggregate data):
+
+- [Do Populists Win on Facebook? The Engagement Premium of Populist Parties in Europe, 2010 to 2020](https://tristanhotham.com/research/do-populists-win-on-facebook/)
+- [What Does a Satellite Campaign Do? Momentum, the Labour Party and Jeremy Corbyn on Facebook in the 2017 General Election](https://tristanhotham.com/research/what-does-a-satellite-campaign-do/)
+- [Same Message, Thousands of Times: Targeted Facebook Advertising by British Parties at the 2017 and 2019 General Elections](https://tristanhotham.com/research/same-message-thousands-of-times/)
+- [Who Carries the Party on Facebook? Leaders, Party Pages and the Polls in Britain, 2010 to 2020](https://tristanhotham.com/research/who-carries-the-party-on-facebook/)
+- [PhD thesis: How do political parties use Facebook and what does it offer to their campaigns](https://tristanhotham.com/research/phd-thesis-how-do-political-parties-use-facebook/)
+
+[All papers →](https://tristanhotham.com/research/) · [Open research index →](https://github.com/Tristan-Hotham/facebook-politics-research)
 
 ---
 
