@@ -32,7 +32,7 @@ Selected papers (open access, with DOIs, PDFs and aggregate data):
 
 #### 🗺️ Data studies: history, places and landscape
 
-69 questions about the past, the landscape and the weather, answered with open data. Each one has an interactive page, a [blog](https://blog.tristanhotham.com/) write-up, and data and code here on GitHub, most with an archived paper on Zenodo. The [hub](https://tristan-hotham.github.io/) shows them all as cards.
+70 questions about the past, the landscape and the weather, answered with open data. Each one has an interactive page, a [blog](https://blog.tristanhotham.com/) write-up, and data and code here on GitHub, most with an archived paper on Zenodo. The [hub](https://tristan-hotham.github.io/) shows them all as cards.
 
 **Names on the map**
 
@@ -110,6 +110,7 @@ Selected papers (open access, with DOIs, PDFs and aggregate data):
 
 **Land, sea and sky**
 
+- [The Footpath Capital](https://tristan-hotham.github.io/footpaths/): Every council in England and Wales by miles of public footpath per square mile: Rossendale tops it at 7.7, and the South Pennine mill towns fill the top ten.
 - [Drowned and Rising](https://tristan-hotham.github.io/sea-level/): A bathtub model of every sea level from the Ice Age to an ice-free world: Britain becomes an island at −30 m, and at +70 m a third of the UK is under water.
 - [How Many Months Are Pleasantly Warm?](https://tristan-hotham.github.io/pleasant-months/): Months with afternoon highs of 18 to 27 °C: the average city dweller gets 3.6 a year now and 2.9 by 2041 to 2060. Pick your own band.
 - [Sun and Rain: the World](https://tristan-hotham.github.io/sun-and-rain/): The world's sunshine against its rainfall: only 3% of land is both sunny and wet, and 84% is sunnier than anywhere in the UK.
