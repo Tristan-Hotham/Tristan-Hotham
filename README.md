@@ -8,9 +8,28 @@ I take public data, the messier the better, and turn it into interactive maps, p
 
 ---
 
-#### 🗺️ Data stories: the past, places and weather
+#### 🗺️ Data stories: the past, places, politics and weather
 
-Questions about the past, the landscape and the weather, in Britain and around the world, answered with open data. Each one has an interactive page, a [blog](https://blog.tristanhotham.com/) write-up, and data and code here on GitHub, most with an archived paper on Zenodo. The [data stories page](https://tristanhotham.com/data/) shows them all as cards.
+Questions about the past, places, politics, everyday life and the weather, in Britain and around the world, answered with open data. Each one has an interactive page, a [blog](https://blog.tristanhotham.com/) write-up, and data and code here on GitHub, most with an archived paper on Zenodo. The [data stories page](https://tristanhotham.com/data/) shows them all as cards.
+
+**People and politics**
+
+- [Born Here](https://maps.tristanhotham.com/famous-births/): 166,586 notable people matched to the UK towns they were born in: the most famous person from each, the towns that punch above their weight, and why so many are hospital towns.
+- [Born and Bred? How Local Are MPs?](https://maps.tristanhotham.com/mp-localness/): Where 10,094 MPs since 1832 were born, set against the seats they won: for 170 years about a quarter were born in their seat's county, and since 2010 it is 41.9%.
+- [Who Is Your Town Twinned With?](https://maps.tristanhotham.com/twin-towns/): All 29,437 twin town and sister city links on Wikidata as arcs on one map: a post-war European habit that peaked in 1990 and lost dozens of Russian links after 2022.
+- [Mentioned in the House](https://maps.tristanhotham.com/hansard-places/): 297,134 Commons mentions of UK towns and cities in Hansard since 1909: which places punch above their weight, and who names your constituency.
+- [Who Won Here?](https://maps.tristanhotham.com/elections-since-1832/): All 49 UK general elections from 1832 to 2024 on one map: 31,736 seats, the forgotten uncontested elections, the Liberal fall and the Red Wall.
+- [School Catchments](https://maps.tristanhotham.com/school-catchments/): Every one of the UK's 27,024 state schools and how much ground each serves: the biggest catchment, Golspie High School, covers 2,215 km².
+- [Where Would You Go to University?](https://maps.tristanhotham.com/study-abroad/): Every country by where its students most often go to study abroad, 1999 to 2023: old empires still show, Turkey is a magnet, and India has overtaken China in Britain.
+
+**Everyday life**
+
+- [What Does the World Drink?](https://maps.tristanhotham.com/drinks-map/): 1,985 protected drink names, 32,425 wineries, breweries and distilleries and the national drink of 201 countries: the national drink is often tea.
+- [What Does the World Eat?](https://maps.tristanhotham.com/food-map/): National dishes for 186 countries, breakfasts for 73 and 2,706 regional dishes from fabada in Asturias to takoyaki in Osaka, and why there is no lunch map.
+- [Chips, Curry or Kebab?](https://maps.tristanhotham.com/takeaways/): 62,949 takeaways and 141,306 restaurants on the food hygiene register sorted by what their names sell: the chip shop capital is the seaside, the curry capital Hounslow.
+- [Signature Sports](https://maps.tristanhotham.com/niche-sports/): Which sport each country plays far more than the world, from 99,246 clubs: pesäpallo in Finland, tchoukball in Switzerland, hurling in Ireland, speedway in Poland.
+- [Born Here, Loved There](https://maps.tristanhotham.com/dog-breeds/): 573 dog breeds mapped to their countries of origin and set against kennel club registrations: in 8 of 10 countries the favourite dog was born somewhere else.
+- [What Britain Drives](https://maps.tristanhotham.com/cars/): 42,728,066 MOT tests mapped by make, model and colour: the average British car is a blue Ford Fiesta, Scotland prefers white, and Shetland loves Toyotas.
 
 **Names on the map**
 
@@ -30,6 +49,11 @@ Questions about the past, the landscape and the weather, in Britain and around t
 - [Where the Devil Lives](https://maps.tristanhotham.com/devils-britain/): 107 Devil place names in Britain: 31% lie within 1 km of a prehistoric monument, against 19% of comparable places.
 - [Haunted, or Just Old?](https://maps.tristanhotham.com/ghosts/): 260 reportedly haunted places against 40,409 top listed buildings: castles and inns are 9 times as common among them, churches almost vanish.
 - [Giants in the Landscape](https://maps.tristanhotham.com/giants/): 331 giant places in Britain and Ireland: giants own graves, not mountains.
+- [Has Your Surname Left Home?](https://maps.tristanhotham.com/surname-birthplaces/): Where 133,761 notable Britons with each surname were born, 1800s against since 1950: Welsh Joneses and Cornish Tre- names are leaving home, though slowly.
+- [-ton, -by, Llan- and Bally-](https://maps.tristanhotham.com/place-name-endings/): 105,532 place names in Britain and Ireland tagged by the English, Norse, Latin, Welsh and Gaelic words inside them: Kil- is a wood far more often than you might think.
+- [High Street or Main Street?](https://maps.tristanhotham.com/street-names/): All 913,335 named streets in the UK sorted by name: High Street rules the towns, Main Street the villages of Scotland, Northern Ireland and parts of England.
+- [Games on the Map](https://maps.tristanhotham.com/games-on-the-map/): A world map of 6,691 video games tied to real places: New York leads, Japan to the United States is the busiest route from studio to setting, and the Moon beats Mars.
+- [What the World Calls Each Other](https://maps.tristanhotham.com/country-names/): 54,037 country names in 262 languages: most countries keep something like their own name everywhere, but Germany has six families of names.
 
 **Prehistory and monuments**
 
@@ -59,6 +83,7 @@ Questions about the past, the landscape and the weather, in Britain and around t
 - [Governing on the Move](https://maps.tristanhotham.com/royal-itineraries/): King John and Edward I mapped night by night: John moved on 42% of the days we can follow him, Edward on 23%.
 - [Market Towns That Failed](https://maps.tristanhotham.com/medieval-markets/): All 2,173 medieval market places in England and Wales, followed to today: 665 are towns, 1,168 villages, and a few are fields or sea.
 - [From Domesday Mills to Modern Mills](https://maps.tristanhotham.com/domesday-mills/): 6,172 mills in Domesday Book: places that had one are 3.9 times as likely to have a watermill nearby today, but not a windmill.
+- [Britain in AD 500](https://maps.tristanhotham.com/britain-500/): What the ground can place instead of neat kingdoms: 891 pieces of evidence, a sharp east of graves and west of stones, and 24 kingdoms we can name but not draw.
 
 **Early modern and modern**
 
@@ -85,6 +110,7 @@ Questions about the past, the landscape and the weather, in Britain and around t
 - [Did Beeching Kill Your Town?](https://maps.tristanhotham.com/beeching-cuts/): 3,331 stations closed from 1955 to 1975, and 643 towns lost every one. They are a little poorer and more car-bound today, but did not fall off a cliff.
 - [Great Fires](https://maps.tristanhotham.com/great-fires/): 102 great town fires, 63% of them in the 1600s and 1700s: did the towns that burned rebuild bigger? Not clearly.
 - [Who Gets a Blue Plaque?](https://maps.tristanhotham.com/blue-plaques/): 6,476 plaques across the UK and all 1,037 English Heritage plaques in London: 16% honour women, but 54% of those since 2020.
+- [The Listed Kingdom](https://maps.tristanhotham.com/listed-buildings/): All 465,740 entries on the UK's four lists of listed buildings on one map: mostly Georgian and Victorian houses, with a great many churches at the top.
 
 **Land, sea and sky**
 
@@ -96,6 +122,13 @@ Questions about the past, the landscape and the weather, in Britain and around t
 - [When Did Your Town Last See a Total Eclipse?](https://maps.tristanhotham.com/eclipse-towns/): Every path of totality across Britain and Ireland from AD 1000 to 2200, tested for 17,103 places: for most towns the last was in 1715 or 1724.
 - [Britain's Earthquakes Since 1382](https://maps.tristanhotham.com/british-earthquakes/): All 7,032 quakes in the BGS catalogues: a magnitude 4 about every 3 years, and the busiest modern zones were coalfields.
 - [Where Are Britain's Oldest Trees?](https://maps.tristanhotham.com/ancient-trees/): 1,626 notable trees on OpenStreetMap: oaks dominate, yews hug the old churches, and giants stand in the royal forests.
+- [Signature Species](https://maps.tristanhotham.com/county-wildlife/): 60.9 million open wildlife records sorted into 118 vice counties, to find the species each one records far more often than the rest of Britain and Northern Ireland.
+- [Darkest Skies](https://maps.tristanhotham.com/dark-skies/): The glow of the world's lights modelled from satellite images and checked against 6,653 sky meter readings: 52% of people, and 85% in the UK, cannot see the Milky Way from home.
+- [Where Rain Goes](https://maps.tristanhotham.com/where-rain-goes/): Every place in Britain, Ireland and the world followed downhill to the sea: 50% of Great Britain drains to the North Sea, and 24% of the world's land never reaches the sea at all.
+- [How Wrong Is Your Clock?](https://maps.tristanhotham.com/clock-vs-sun/): For 76% of the world's people the clock runs ahead of the sun: the gap everywhere, and why winter mornings in Galicia stay dark until after nine.
+- [What Grows Where](https://maps.tristanhotham.com/tree-map/): Every wood in Great Britain by type, England's public forests by species and planting year, and 88 tree genera worldwide: woodland covers 13.7% of Great Britain, 19.1% of Scotland but 10.3% of England.
+- [Hard Water](https://maps.tristanhotham.com/hard-water/): Water hardness from 16,682 river, lake and groundwater stations, and a simple model that guesses it from the rocks: Scandinavia's median is 14 mg/l, the Yucatán's 514.
+- [The Rocks Beneath](https://maps.tristanhotham.com/rocks-beneath/): A geological map of the British Isles and the world in the colours of 1969: Carboniferous rocks cover 17.5% of Great Britain, and England's layers get younger all the way to London.
 
 ---
 
