@@ -123,7 +123,16 @@ Selected papers (open access, with DOIs, PDFs and aggregate data):
 
 #### 🎮 Things I make
 
-Free browser games that run on a phone or a laptop, with no install:
+Free browser games that run on a phone or a laptop, with no install.
+
+**Daily data games**, built from the same open data as my maps, with a new puzzle every day:
+
+- [Whereabouts](https://github.com/Tristan-Hotham/whereabouts) ([play](https://maps.tristanhotham.com/whereabouts/)): find the mystery UK town, city, village or county in six goes, with a clue every time you miss
+- [Whereabouts World](https://github.com/Tristan-Hotham/whereabouts-world) ([play](https://maps.tristanhotham.com/whereabouts-world/)): the same, anywhere on Earth: countries, capitals, cities, towns, villages and regions
+- [Higher or Lower](https://github.com/Tristan-Hotham/higher-or-lower) ([play](https://maps.tristanhotham.com/higher-or-lower/)): two UK councils, one number, 66 measures from pay to Druids
+- [Higher or Lower: World](https://github.com/Tristan-Hotham/higher-or-lower-world) ([play](https://maps.tristanhotham.com/higher-or-lower-world/)): two countries, one number, 67 measures from beer to Olympic medals
+
+**Other games:**
 
 - [Bit-zkrieg: Iron Front '44](https://github.com/Tristan-Hotham/iron-front-44): WW2 turn-based tactics in the Advance Wars mould
 - [Neon Protocol: Uprising](https://github.com/Tristan-Hotham/neon-protocol): tactics and base building in a neon megacity
