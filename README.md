@@ -14,6 +14,7 @@ Questions about the past, places, politics, everyday life and the weather, in Br
 
 **People and politics**
 
+- [Where Languages Come From](https://maps.tristanhotham.com/language-origins/): Every one of 7,674 spoken languages with its family tree, endangerment and speakers, plus the proposed homelands of the great families: 421 separate lineages, and 52.1% of languages endangered.
 - [Born Here](https://maps.tristanhotham.com/famous-births/): 166,586 notable people matched to the UK towns they were born in: the most famous person from each, the towns that punch above their weight, and why so many are hospital towns.
 - [Born and Bred? How Local Are MPs?](https://maps.tristanhotham.com/mp-localness/): Where 10,094 MPs since 1832 were born, set against the seats they won: for 170 years about a quarter were born in their seat's county, and since 2010 it is 41.9%.
 - [Who Is Your Town Twinned With?](https://maps.tristanhotham.com/twin-towns/): All 29,437 twin town and sister city links on Wikidata as arcs on one map: a post-war European habit that peaked in 1990 and lost dozens of Russian links after 2022.
@@ -24,6 +25,8 @@ Questions about the past, places, politics, everyday life and the weather, in Br
 
 **Everyday life**
 
+- [Who Was Big When?](https://maps.tristanhotham.com/who-was-big-when/): 126 seasons of English league football on one map: crowds peaked at 41.2 million in 1948-49, the game moved south, and 39 towns have lost their league club.
+- [Where Football Clubs Come From](https://maps.tristanhotham.com/football-origins/): 45,931 clubs on an animated map from Sheffield FC in 1857: football spread by sea to Peru and Argentina before Hungary or Russia, and 1919 was the busiest founding year.
 - [What Does the World Drink?](https://maps.tristanhotham.com/drinks-map/): 1,985 protected drink names, 32,425 wineries, breweries and distilleries and the national drink of 201 countries: the national drink is often tea.
 - [What Does the World Eat?](https://maps.tristanhotham.com/food-map/): National dishes for 186 countries, breakfasts for 73 and 2,706 regional dishes from fabada in Asturias to takoyaki in Osaka, and why there is no lunch map.
 - [Chips, Curry or Kebab?](https://maps.tristanhotham.com/takeaways/): 62,949 takeaways and 141,306 restaurants on the food hygiene register sorted by what their names sell: the chip shop capital is the seaside, the curry capital Hounslow.
@@ -71,6 +74,8 @@ Questions about the past, places, politics, everyday life and the weather, in Br
 
 **Romans to Tudors**
 
+- [Holy Islands](https://maps.tristanhotham.com/holy-islands/): 20,228 European monasteries and hermitages checked against the shoreline: before 800, 4.3% stood on islands, from Skellig Michael to Iona; after 1100, about one in a hundred.
+- [The Plague Years](https://maps.tristanhotham.com/plague-map/): 6,848 recorded plague years in 1,172 towns, 1347 to 1900: the Black Death's first wave, a return every 13 years or so, and the last outbreaks a century later in the Ottoman Mediterranean.
 - [How Roman Is Your Road?](https://maps.tristanhotham.com/how-roman-is-your-road/): How much of each county's A-roads still follows a Roman line?
 - [The Roman Commuter Belt?](https://maps.tristanhotham.com/roman-villas/): 617 Roman villas against today's household income: a premium that is almost all geography.
 - [Minted](https://maps.tristanhotham.com/saxon-mints/): England's Anglo-Saxon and Norman mint towns from 70,995 coins: were they still the big towns in 1377, 1801 and today?
@@ -87,6 +92,57 @@ Questions about the past, places, politics, everyday life and the weather, in Br
 
 **Early modern and modern**
 
+- [Where Every Film Was Shot](https://maps.tristanhotham.com/film-locations/): Filming locations of 23,468 films in Wikidata: Los Angeles, New York, London and Paris lead, Canada hosts the most foreign productions, and the Bond films reached 36 countries and territories.
+- [Where Every Film Director Is From](https://maps.tristanhotham.com/director-birthplaces/): Birthplaces of 43,619 film directors: New York and Paris lead, Prague and Copenhagen lead per head, and women rose from 3% of new directors in the 1920s to 32% in the 2020s.
+- [Capitals That Moved](https://maps.tristanhotham.com/moving-capitals/): 184 capital moves since 1500, checked by hand. The longest was the Portuguese court's flight from Lisbon to Rio de Janeiro in 1808: 7,716 km.
+- [In the Shadow of the Volcano](https://maps.tristanhotham.com/volcano-neighbours/): All 1,215 Holocene volcanoes and their neighbours: at least 147 million people live within 30 km of one, and 76 volcanoes have a million or more.
+- [Where Space Rocks Land](https://maps.tristanhotham.com/meteorite-falls/): 45,715 meteorites: 65% found on Antarctic ice and 24% in hot deserts, while the 1,107 seen to fall follow people, not the sky.
+- [Desert, Forest, Ice](https://maps.tristanhotham.com/land-cover-1900/): The world's land in 1900 and now: farms covered 19% of the ice-free land in 1900 and cover 37% today. Where the new fields came from, and where trees came back.
+- [Where the World's Islands Are](https://maps.tristanhotham.com/world-islands/): 181,588 islands in a detailed open shoreline map, 23,150 over a square kilometre. Canada has the most, and 10.3% of the world's people live on one.
+- [Where the Borders Are Straight](https://maps.tristanhotham.com/straight-borders/): 19% of the world's land borders are ruler-straight and Africa holds over half of that length, but North America is straighter by share. With the treaties behind the 40 longest lines.
+- [Who Shares the World's Rivers?](https://maps.tristanhotham.com/shared-rivers/): 313 river basins cross a border, draining 47% of the land outside Antarctica and holding 45% of the world's people. Plus the great rivers measured on one map.
+- [How Deep Is the Sea?](https://maps.tristanhotham.com/ocean-depth/): The whole ocean floor in depth: the average sea floor lies 3,675 m down, 74% of it is abyssal, and only 28.7% is mapped to modern standards.
+- [Shipwrecks of the World, and How Many over Time](https://maps.tristanhotham.com/world-shipwrecks/): 243,071 wrecks listed on Wikipedia since 1700, year by year: three of the five worst years are war years, with 1944 the worst of all.
+- [Where the World's Music Comes From](https://maps.tristanhotham.com/music-birthplaces/): Birthplaces of 283,424 musicians and home towns of 29,489 bands: New York, London, Paris and Vienna lead, and Finland has the most metal bands per head.
+- [How High Is the World?](https://maps.tristanhotham.com/world-terrain/): The height of the whole planet on one map: the land averages 807 m, only 11% of it is above 2,000 m, and only 1.9% of city dwellers live that high.
+- [The Earth at Night](https://maps.tristanhotham.com/earth-at-night/): Satellite night lights 2012 to 2024: 57% more light, Nepal up ninefold, Ukraine and Yemen half dark, and why LEDs fool the satellite.
+- [Every Battle in History](https://maps.tristanhotham.com/every-battle/): 13,712 battles from 3001 BCE to 2026: the most fought-over places, how war moved across the world, and the bias in the record.
+- [Roads of the Roman Empire](https://maps.tristanhotham.com/roman-roads/): 299,171 km of Roman road and a travel model: London was 81 days on foot from Rome, Constantinople 75 and Alexandria 180.
+- [Ghost Towns of the World](https://maps.tristanhotham.com/ghost-towns/): 5,448 abandoned settlements coloured by why they were left, and what open data does not record.
+- [Lighthouses of the World](https://maps.tristanhotham.com/lighthouses/): 9,770 lighthouses on one glowing map: lights per km of coast, when they were built, the oldest still standing and the tallest.
+- [Every Rocket Launch Since Sputnik](https://maps.tristanhotham.com/rocket-launches/): 7,416 orbital launches since 1957: the space race, the record 329 of 2025, the busiest spaceports and the Point Nemo spacecraft cemetery.
+- [Ships Before Steam](https://maps.tristanhotham.com/ships-before-steam/): Real ships' logbooks from 1750 to 1850 drawn as voyage lines: the trade winds, the volta do mar, the Brouwer route and how long voyages took.
+- [The World's Tallest Building](https://maps.tristanhotham.com/tallest-buildings/): Every record holder from the Great Pyramid to Jeddah Tower: Lincoln Cathedral held the title for 238 years, New York for 65.
+- [Every Nuclear Test, Mapped](https://maps.tristanhotham.com/nuclear-tests/): 2,055 nuclear tests by eight countries since 1945: the 1962 peak, the move underground, and whose land they were on.
+- [The Nobel Brain Drain](https://maps.tristanhotham.com/nobel-brain-drain/): Nobel laureates from birthplace to prize: the US as the great importer, Germany after 1933, Japan's rise and the top universities.
+- [Life on the Moving Map](https://maps.tristanhotham.com/deep-time-life/): 540 million years of drifting continents, from Pangaea onwards, with fossil animals from trilobites to dinosaurs where they lived.
+- [Lost at Sea](https://maps.tristanhotham.com/lost-at-sea/): 472 famous disappearances at sea tested against shipping traffic: the Bermuda Triangle is no worse than its neighbours.
+- [Where Inventions Came From](https://maps.tristanhotham.com/inventions-map/): Where inventions came from over 3.3 million years: independent origins, the moving centre of invention, inventive cities and who gets the credit.
+- [The Internet's Seabed](https://maps.tristanhotham.com/submarine-cables/): Every submarine internet cable: when each was laid, who owns them, and the straits and hubs where they crowd together.
+- [Pirate Hotspots, Then and Now](https://maps.tristanhotham.com/piracy-hotspots/): 7,511 pirate attacks from 1993 to 2020, with IMB counts to 2026: piracy moved from the Strait of Malacca to Somalia, the Gulf of Guinea and now the Singapore Strait.
+- [How the World Is Governed](https://maps.tristanhotham.com/government-types/): 197 systems of government compared on eight features: 12 families, 112 exact systems, and 80 countries with a system no one else shares.
+- [By Road and by Sea](https://maps.tristanhotham.com/roman-travel-times/): Fastest travel from Rome with ships as well as roads: Carthage was 210 days' walk by road and 6 with a ship, from Casson's ancient voyage speeds.
+- [Every Storm Since 1851](https://maps.tristanhotham.com/hurricane-tracks/): Every hurricane, typhoon and cyclone in the global best-track archive: where storms form and hit, and the rising share reaching Category 4 or 5 since 1980.
+- [A Tolkien-Style Map of the Whole World](https://maps.tristanhotham.com/ink-map/): The whole Earth drawn like a hand-inked fantasy map: peaks only on real high ground, dunes for deserts, castles, town walls and great landmarks in pictures, rivers and beaches named in blue, and towns of tiny red and blue roofed houses packed tightest at the centre.
+- [The AI Tapestry](https://maps.tristanhotham.com/ai-tapestry/): The history of artificial intelligence stitched like the Bayeux Tapestry: from Ada Lovelace's engine to AI agents, with Latin captions, two winters, a comet called attention and a sourced note behind every scene.
+- [A Lidar Map of the World](https://maps.tristanhotham.com/lidar-world/): Fifteen national lidar surveys in one zoomable map: the ground with the trees and buildings taken away. Hillforts in forests, the craters of Verdun and Messines, Roman gold mines and Japan's largest burial mound.
+- [Transported](https://maps.tristanhotham.com/transported-convicts/): Every convict ship voyage to Australia, 1788 to 1868: the busiest port was Cork and the Second Fleet lost a quarter at sea.
+- [London's Buried Rivers](https://maps.tristanhotham.com/buried-rivers/): What still flows in the open and what runs in the dark: the Tyburn, Westbourne and Fleet are almost wholly underground.
+- [Drowned Valleys](https://maps.tristanhotham.com/drowned-valleys/): The villages and valleys flooded for reservoirs, from Capel Celyn to Mologa, set against the great dam-building boom.
+- [Every Tsunami on Record](https://maps.tristanhotham.com/tsunamis/): Every recorded tsunami since 1610 BC and the places its water reached: most start with an earthquake, the highest ran 524 m uphill.
+- [The Middle of Nowhere](https://maps.tristanhotham.com/remote-places/): How far every point on land is from the nearest town: a quarter of the land outside Antarctica is more than 100 km from one.
+- [Every Tour de France, Mapped](https://maps.tristanhotham.com/tour-de-france/): Every stage since 1903: from one unbroken lap of France's edges to a race that hops, shorter and faster than ever.
+- [The World's Strangest Borders](https://maps.tristanhotham.com/border-oddities/): Every enclave, exclave and tripoint: 42 true enclaves in 85 pieces, and a front door split between two countries.
+- [When Did Your Country Lose 11 Days?](https://maps.tristanhotham.com/calendar-switch/): The Gregorian calendar, driving side, metric units and votes for women, switched country by country.
+- [Painted Places](https://maps.tristanhotham.com/painted-places/): Where landscape painters painted: the most painted place on Earth is a river, the Seine, and how far painters went from home.
+- [Fencing the Commons](https://maps.tristanhotham.com/enclosure/): Every parliamentary enclosure Act in England and Wales mapped place by place: two waves, and half passed in the wars with France.
+- [The Largest City on Earth](https://maps.tristanhotham.com/largest-cities/): Six thousand years of the world's biggest city, from Uruk to Jakarta, and how the centre of the urban world wandered.
+- [Where the Asylums Were](https://maps.tristanhotham.com/asylums/): Britain's asylums mapped: most built between 1845 and 1914, almost none closed until the 1980s, and most closed sites are now homes.
+- [Where Novels Are Set](https://maps.tristanhotham.com/novel-settings/): The real settings of 7,300 novels: London, New York and Paris dominate, and most authors stay close to where they were born.
+- [Junk on the Moon and Mars](https://maps.tristanhotham.com/moon-mars/): Every human-made object on two worlds: 133 on the Moon and 27 on Mars, from landers and rovers to golf balls.
+- [Ancient DNA on the Map](https://maps.tristanhotham.com/ancient-dna/): 16,496 ancient genomes placed where and when they lived: the first farmers spread out of Anatolia at about a kilometre a year.
+- [Who Held the Map?](https://maps.tristanhotham.com/flags-through-time/): Twelve centuries of the world map, 800 to 2010, each piece of land filled with the flag of whoever held it. In 1000 no land can honestly be shown with a flag; by 2010, 97% can.
+- [What's Left of the Workhouse?](https://maps.tristanhotham.com/workhouses/): 356 traces of Britain and Ireland's workhouses in open data: surviving buildings, Workhouse Lanes and famine graves. 74% of survivors with a known later use became hospitals or homes.
 - [Fire on the Hills](https://maps.tristanhotham.com/armada-beacons/): Could the Armada beacons carry the news? 193 beacon hills and the lines of sight between them.
 - [Cold Years, Witch Years?](https://maps.tristanhotham.com/witch-hunts/): Scotland's 3,840 accused witches: did the panics follow cold years? They did not.
 - [Canal Mania](https://maps.tristanhotham.com/canal-mania/): Did England's canal towns boom, and do they still lead? Bigger today, not richer.
@@ -114,6 +170,7 @@ Questions about the past, places, politics, everyday life and the weather, in Br
 
 **Land, sea and sky**
 
+- [Where the Wind Blows](https://maps.tristanhotham.com/wind-map/): The world's winds month by month, from the trade winds to the Roaring Forties, and 5,344 wind farms: 82% of onshore capacity stands on ground windier than its country's median.
 - [The Footpath Capital](https://maps.tristanhotham.com/footpaths/): Every council in England and Wales by miles of public footpath per square mile: Rossendale tops it at 7.7, and the South Pennine mill towns fill the top ten.
 - [Drowned and Rising](https://maps.tristanhotham.com/sea-level/): A bathtub model of every sea level from the Ice Age to an ice-free world: Britain becomes an island at −30 m, and at +70 m a third of the UK is under water.
 - [How Many Months Are Pleasantly Warm?](https://maps.tristanhotham.com/pleasant-months/): Months with afternoon highs of 18 to 27 °C: the average city dweller gets 3.6 a year now and 2.9 by 2041 to 2060. Pick your own band.
