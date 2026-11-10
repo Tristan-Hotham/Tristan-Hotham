@@ -206,6 +206,10 @@ Questions about the past, places, politics, everyday life and the weather, in Br
 - [Two faces of the constituency](https://maps.tristanhotham.com/janus-places/): How often MPs name the places they represent: 42 times per 100 Facebook posts, 9 per 100 Commons speeches.
 - [Can you see the sea?](https://maps.tristanhotham.com/sea-view/): Sight lines from every 1 km square of the UK: 26% of the land has a sea view from the ground.
 - [Do the clocks kill?](https://maps.tristanhotham.com/clock-change-crashes/): Road collisions in the week after the clocks change, Great Britain 1979 to 2025: no jump in spring or autumn across 9.1 million collisions.
+- [Does anyone play your town?](https://maps.tristanhotham.com/band-towns/): Every UK concert documented in MusicBrainz, 1960 to 2025, by council area: arena towns hold 10% of people but 53% of documented tour dates.
+- [Where party money lives](https://maps.tristanhotham.com/party-money/): Organisational donations to UK parties since 2001 by donor address: 59% from London, and a quarter from one constituency.
+- [Where slavery money came home](https://maps.tristanhotham.com/slavery-compensation/): 3,187 British addresses of slave-owners and claimants compensated in the 1830s: 36% in London.
+- [How old is your neighbourhood?](https://maps.tristanhotham.com/house-age/): The age of the homes in every small area of England and Wales: 21% predate 1919, and cities grow in rings.
 - [Who Held the Map?](https://maps.tristanhotham.com/flags-through-time/): Twelve centuries of the world map, 800 to 2010, each piece of land filled with the flag of whoever held it. In 1000 no land can honestly be shown with a flag; by 2010, 97% can.
 - [What's Left of the Workhouse?](https://maps.tristanhotham.com/workhouses/): 356 traces of Britain and Ireland's workhouses in open data: surviving buildings, Workhouse Lanes and famine graves. 74% of survivors with a known later use became hospitals or homes.
 - [Fire on the Hills](https://maps.tristanhotham.com/armada-beacons/): Could the Armada beacons carry the news? 193 beacon hills and the lines of sight between them.
