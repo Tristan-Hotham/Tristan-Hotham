@@ -210,6 +210,12 @@ Questions about the past, places, politics, everyday life and the weather, in Br
 - [Where party money lives](https://maps.tristanhotham.com/party-money/): Organisational donations to UK parties since 2001 by donor address: 59% from London, and a quarter from one constituency.
 - [Where slavery money came home](https://maps.tristanhotham.com/slavery-compensation/): 3,187 British addresses of slave-owners and claimants compensated in the 1830s: 36% in London.
 - [How old is your neighbourhood?](https://maps.tristanhotham.com/house-age/): The age of the homes in every small area of England and Wales: 21% predate 1919, and cities grow in rings.
+- [Where Romans wrote](https://maps.tristanhotham.com/roman-inscriptions/): 200,000 Latin inscriptions mapped across the Roman Empire: the epigraphic habit, ages on tombstones and soldiers far from home.
+- [Crime in London, 1674 to 1913](https://maps.tristanhotham.com/old-bailey-crime/): The Old Bailey Proceedings mapped: from the gallows and transportation to prison, and where London's crimes happened.
+- [Lost money](https://maps.tristanhotham.com/roman-coins/): Roman coins found in England, reign by reign: 275,206 Portable Antiquities Scheme records by district.
+- [Who owns your street?](https://maps.tristanhotham.com/overseas-owners/): Property in England and Wales held by overseas companies, by small area: 90,949 titles, 76% via Crown Dependencies and Overseas Territories.
+- [Booth's poverty map today](https://maps.tristanhotham.com/booth-today/): Are London's poorest streets of the 1890s still the poorest? Booth's colours read street by street against today's deprivation.
+- [UFOs, big cats and Nessie](https://maps.tristanhotham.com/ufos-cats-nessie/): What explains where people see them? UFO reports, police big cat records and the Loch Ness sightings register, tested.
 - [Who Held the Map?](https://maps.tristanhotham.com/flags-through-time/): Twelve centuries of the world map, 800 to 2010, each piece of land filled with the flag of whoever held it. In 1000 no land can honestly be shown with a flag; by 2010, 97% can.
 - [What's Left of the Workhouse?](https://maps.tristanhotham.com/workhouses/): 356 traces of Britain and Ireland's workhouses in open data: surviving buildings, Workhouse Lanes and famine graves. 74% of survivors with a known later use became hospitals or homes.
 - [Fire on the Hills](https://maps.tristanhotham.com/armada-beacons/): Could the Armada beacons carry the news? 193 beacon hills and the lines of sight between them.
