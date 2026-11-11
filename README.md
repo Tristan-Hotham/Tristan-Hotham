@@ -217,6 +217,7 @@ Questions about the past, places, politics, everyday life and the weather, in Br
 - [Booth's poverty map today](https://maps.tristanhotham.com/booth-today/): Are London's poorest streets of the 1890s still the poorest? Booth's colours read street by street against today's deprivation.
 - [UFOs, big cats and Nessie](https://maps.tristanhotham.com/ufos-cats-nessie/): What explains where people see them? UFO reports, police big cat records and the Loch Ness sightings register, tested.
 - [Bus deserts](https://maps.tristanhotham.com/bus-deserts/): 41% of English villages have no usable weekday bus within 800 m, and 68% no Sunday bus nearby.
+- [What are the odds of a white Christmas?](https://maps.tristanhotham.com/white-christmas/): Christmas Day snow at 116 UK towns since 1940: snow lay in about 1 Christmas in 11, from never in Bournemouth to most years in the Highlands.
 - [Who Held the Map?](https://maps.tristanhotham.com/flags-through-time/): Twelve centuries of the world map, 800 to 2010, each piece of land filled with the flag of whoever held it. In 1000 no land can honestly be shown with a flag; by 2010, 97% can.
 - [What's Left of the Workhouse?](https://maps.tristanhotham.com/workhouses/): 356 traces of Britain and Ireland's workhouses in open data: surviving buildings, Workhouse Lanes and famine graves. 74% of survivors with a known later use became hospitals or homes.
 - [Fire on the Hills](https://maps.tristanhotham.com/armada-beacons/): Could the Armada beacons carry the news? 193 beacon hills and the lines of sight between them.
